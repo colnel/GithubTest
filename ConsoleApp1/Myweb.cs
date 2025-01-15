@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class Myweb
     {
         public int kkk = 0;
+        public int kkk2 = 0;
     }
 }
