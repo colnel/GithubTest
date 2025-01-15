@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         public int kkk = 0;
         public int kkk2 = 0;
+        public int kkk3 = 0;
     }
 }
